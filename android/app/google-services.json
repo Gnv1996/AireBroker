@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "413500377424",
+    "project_id": "auth-cf5be",
+    "storage_bucket": "auth-cf5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413500377424:android:9cd6f9f5926b1bf8a08455",
+        "android_client_info": {
+          "package_name": "com.airebroke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413500377424-i2kngjjjprg1inaaq7kqnc287f5gdcc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.airebroke",
+            "certificate_hash": "75f9f55dcf229f1d03e072d9f60b2269fea03340"
+          }
+        },
+        {
+          "client_id": "413500377424-2dd84p1nu276n90hprbt2likfp1taum3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-AYfJ6PEB0KwEtqyCfADF_1TmrJHrFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413500377424-2dd84p1nu276n90hprbt2likfp1taum3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
