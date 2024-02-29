@@ -43,6 +43,7 @@ function GoogleAuth() {
         Alert.alert('Play Services', 'Play services not available or outdated');
       } else {
         Alert.alert('Error', 'Something went wrong' + error.toString());
+        // ""
       }
     }
   };
